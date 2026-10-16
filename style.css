@@ -1,0 +1,37 @@
+body{
+    background-image: url(texture3.jpg);
+}
+
+.container{
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row{
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2{
+    background-color: rgb(70, 130, 221);
+    text-align: center;
+    border-radius: 8px;
+    text-align: center;
+    color: black;
+}
+
+
+footer{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: grey;
+}
